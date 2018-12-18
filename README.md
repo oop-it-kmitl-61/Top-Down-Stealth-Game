@@ -1,5 +1,8 @@
 # Top-Down-Stealth-Game
-Google drive : https://drive.google.com/drive/folders/1d4E8YUbYXD7GjfQOwVGkhLD8HoN7GZOe?usp=sharing
+Google drive : https://drive.google.com/drive/folders/1d4E8YUbYXD7GjfQOwVGkhLD8HoN7GZOe?usp=sharing <br>
+การ run file : หากไม่สามารถ run ผ่าน file .jar ไม่ได้ <br>
+ให้ run ผ่านโปรแกรมผ่าน Eclipse โดย import file ผ่าน gradle <br>
+และให้ run ที่ project-game-desktop -> src -> com.project.game.desktop -> DesktopLauncher.java
 
 สมาชิกในกลุ่ม <br>
   1.นายสุภวัช กลิ่นขจร 60070106<br>
